@@ -1,0 +1,4 @@
+OpenGL 3.x+ == Mesa 10
+
+* Build from source via Mesa site
+* Probably say without gallium drivers
